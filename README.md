@@ -18,6 +18,10 @@ December temperatures, displayed in summary below, average at 71 degrees F, most
 ### Comparison
 In general, June and December temperatures in the target Hawaiian region seem to vary by only a few degrees. While the client can expect a higher number of days in December with temperatures not conducive to ice-cream related activities, at least half of the days in December can be expected to fall into the same range as the colder days of June.
 
+- Average Temperatures: June- 75, December- 71
+- Lowest Temperatures: June- 64, December- 56
+- Highest Temperatures: June- 85, December- 83
+
 ## Summary
 Analysis of temperature variance using the current data covered temperatures recorded between 2010 and 2017. While the weather data within this period is helpful, a further analysis using weather trends across several decades may provide more long-term outlooks, according to client interest.
 
